@@ -1,4 +1,4 @@
 # LaTeX
 
-- [latex-advice](https://github.com/RAP-group/latex-advice)
+- [latex-advice](https://github.com/dspinellis/latex-advice)
 - [LaTeX for linguists]()
