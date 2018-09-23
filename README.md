@@ -2,6 +2,8 @@
 Getting started
 ===============
 
+*Last update*: 2018-09-23
+
 Useful information to help new researchers get started
 
 Contents

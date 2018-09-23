@@ -4,6 +4,8 @@ output: github_document
 
 # Getting started
 
+*Last update*: `r Sys.Date()`  
+
 Useful information to help new researchers get started
 
 ## Contents
