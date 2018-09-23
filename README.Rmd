@@ -10,15 +10,30 @@ Useful information to help new researchers get started
 
 ## Contents
 
-- LaTeX
-- R
-- RMarkdown
-- Statistics
-- Open science/reproducible research
-- Project management
-- regex
-- HTML
-- Praat
+```{r, 'list-resources', results='asis', message=F, warning=F, echo=F}
+library(dplyr)
+files_vector <- list.files(".") %>% 
+  as_tibble(.) %>% 
+  filter(., !(value %in% c("getting_started.Rproj", "LICENSE", "README.md", 
+                           "README.Rmd"))) %>% 
+  pull(.)
+
+list_names <- c(
+  "Open science/reproducible research", 
+  "Project management", 
+  "R", 
+  "RMarkdown", 
+  "Statistics", 
+  "Praat", 
+  "LaTeX", 
+  "regex", 
+  "HTML") 
+
+names(files_vector) <- list_names
+
+paste0("- [", names(files_vector), "](", files_vector, ") \n") %>% 
+  cat(.)
+```
 
 ## Some advice
 
