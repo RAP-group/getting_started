@@ -6,7 +6,7 @@ output: github_document
 
 *Last update*: `r Sys.Date()`  
 
-Useful information to help new researchers get started
+Useful information/resources to help new researchers get started.
 
 ## Resources
 
@@ -14,8 +14,8 @@ Useful information to help new researchers get started
 library(dplyr)
 files_vector <- list.files(".") %>% 
   as_tibble(.) %>% 
-  filter(., !(value %in% c("getting_started.Rproj", "LICENSE", "README.md", 
-                           "README.Rmd"))) %>% 
+  filter(., !(value %in% c("getting_started.Rproj", "LICENSE", 
+                           "README.md", "README.Rmd"))) %>% 
   pull(.)
 
 list_names <- c(
@@ -37,4 +37,6 @@ paste0("- [", names(files_vector), "](", files_vector, ") \n") %>%
 
 ## Some advice
 
-Use the resources provided in this repo as they become necessary to you. Do not try to learn everything at once. You will be overwhelmed. Try to master the information over time as it becomes necessary in your research. 
+Use the resources provided in this repo as they become necessary to you. Do 
+not try to learn everything at once. You will be overwhelmed. Try to master 
+the information over time as it becomes necessary in your research. 

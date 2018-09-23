@@ -3,7 +3,7 @@
 
 *Last update*: 2018-09-23
 
-Useful information to help new researchers get started
+Useful information/resources to help new researchers get started.
 
 ## Resources
 
