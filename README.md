@@ -5,7 +5,7 @@
 
 Useful information to help new researchers get started
 
-## Contents
+## Resources
 
   - [Open science/reproducible research](01_resources_open_sci.md)
   - [Project management](02_resources_project_management.md)
@@ -14,7 +14,7 @@ Useful information to help new researchers get started
   - [Statistics](05_resources_stats.md)
   - [Praat](06_resources_praat.md)
   - [LaTeX](07_resources_latex.md)
-  - [regex](08_resources_regex.md)
+  - [Regular expressions (regex)](08_resources_regex.md)
   - [HTML](09_resources_html.md)
 
 ## Some advice

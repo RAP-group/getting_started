@@ -8,7 +8,7 @@ output: github_document
 
 Useful information to help new researchers get started
 
-## Contents
+## Resources
 
 ```{r, 'list-resources', results='asis', message=F, warning=F, echo=F}
 library(dplyr)
@@ -26,7 +26,7 @@ list_names <- c(
   "Statistics", 
   "Praat", 
   "LaTeX", 
-  "regex", 
+  "Regular expressions (regex)", 
   "HTML") 
 
 names(files_vector) <- list_names
