@@ -19,6 +19,7 @@ files_vector <- list.files(".") %>%
   pull(.)
 
 list_names <- c(
+  "Applications/programs", 
   "Open science/reproducible research", 
   "Project management", 
   "R", 
@@ -27,7 +28,7 @@ list_names <- c(
   "Praat", 
   "LaTeX", 
   "Regular expressions (regex)", 
-  "HTML") 
+  "HTML/CSS") 
 
 names(files_vector) <- list_names
 

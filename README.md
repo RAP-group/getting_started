@@ -1,12 +1,13 @@
 
 # Getting started
 
-*Last update*: 2018-09-23
+*Last update*: 2018-09-24
 
 Useful information/resources to help new researchers get started.
 
 ## Resources
 
+  - [Applications/programs](00_resources_apps.md)
   - [Open science/reproducible research](01_resources_open_sci.md)
   - [Project management](02_resources_project_management.md)
   - [R](03_resources_r.md)
@@ -15,7 +16,7 @@ Useful information/resources to help new researchers get started.
   - [Praat](06_resources_praat.md)
   - [LaTeX](07_resources_latex.md)
   - [Regular expressions (regex)](08_resources_regex.md)
-  - [HTML](09_resources_html.md)
+  - [HTML/CSS](09_resources_html.md)
 
 ## Some advice
 
