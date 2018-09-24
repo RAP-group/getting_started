@@ -2,30 +2,31 @@
 
 These are some programs that are useful for research, graduate school. The 
 majority are for MAC OS, however, applications for windows and linux are also 
-listed if I know about them. 
+listed if I know about them. The ⭐️ emoji represents an application used 
+exclusively in the lab. 
 
 ## Citation management
 
-- Zotero
-- BibDesk
-- RefWorks
-- Papers
-- Mendeley
+- ⭐ [Zotero]():
+- ⭐ [BibDesk]():
+- [RefWorks]():
+- [Papers]():
+- [Mendeley]():
 
 ## Version control
 
-- Github
-- Gitlab
-- Bitbucket
-- Dropbox
-- Google drive
-- Box
-- OneDrive
+- ⭐ [Github]():
+- ⭐ [Dropbox]():
+- ⭐ [Google drive]():
+- [Gitlab]():
+- [Bitbucket]():
+- [Box]():
+- [OneDrive]():
 
 ## Communication
 
-- Slack
-- Skype
+- ⭐ [Slack]():
+- [Skype]():
 
 ## Text editors
 
@@ -35,7 +36,7 @@ data wrangling, you are doing it wrong. You should do this in R, but in some
 cases a good text editor is also necessary. Key features to look for include: 
 multiple cursors, split-windows, and REPLs. 
 
-- [Sublime Text](https://www.sublimetext.com): This is the text editor I use. 
+- ⭐ [Sublime Text](https://www.sublimetext.com): This is the text editor I use. 
 It is proprietary software, but I believe it is a worthwhile investment. The 
 trial version can be used indefinitely (but with annoying pop-ups). It is 
 available on all platforms and is (as of Sept. 2018) still under active 
@@ -64,7 +65,7 @@ online once claims that having a good text editor (Sublime Text, for example)
 is like having a Ferrari, while having a good IDE is like having the factory 
 that produces Ferrari's. Programming nerds fight over which is better.
 
-- [RStudio](https://www.rstudio.com): This is the development environment that 
+- ⭐ [RStudio](https://www.rstudio.com): This is the development environment that 
 RAP Group uses for the R programming language. It facilitates statistical 
 analysis, but also plays a crucial role in making research reproducible. It 
 can also be used to create websites, develop R packages, create webapps, and 
@@ -77,31 +78,31 @@ wasted a lot of time customizing it. It was fun, but unproductive. Many people
 
 ## Word processing/typesetting
 
-- Word
-- LaTeX
-- RMarkdown
-- Pages
+- ⭐ [RMarkdown]():
+- ⭐ [LaTeX]():
+- ⭐ [Word]():
+- [Pages]():
 
 ## Stimuli presentation
 
-- PsychoPy
-- E-prime
-- Superlab
+- ⭐ [PsychoPy](): 
+- [E-prime]():
+- [Superlab]():
 
 ## Statistical analysis
 
-- R
-- SPSS
-- Matlab
-- SASS
-- JASP
+- ⭐ [R]():
+- [SPSS]():
+- [Matlab]():
+- [SASS]():
+- [JASP]():
 
 ## Speech analysis
 
-- Praat
-- Audacity
+- ⭐ [Praat](): 
+- [Audacity]():
 
 ## Misc. 
 
-- Github Desktop
-- Alfred
+- ⭐ [Github Desktop]():
+- ⭐ [Alfred]():
