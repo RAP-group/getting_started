@@ -7,26 +7,26 @@ exclusively in the lab.
 
 ## Citation management
 
-- ⭐ [Zotero]():
-- ⭐ [BibDesk]():
-- [RefWorks]():
-- [Papers]():
-- [Mendeley]():
+- ⭐ [Zotero](http://zotero.org/)
+- ⭐ [BibDesk](https://bibdesk.sourceforge.io)
+- [RefWorks](https://www.refworks.com/)
+- [Papers](https://www.readcube.com/papers/)
+- [Mendeley](https://www.mendeley.com)
 
 ## Version control
 
-- ⭐ [Github]():
-- ⭐ [Dropbox]():
-- ⭐ [Google drive]():
-- [Gitlab]():
-- [Bitbucket]():
-- [Box]():
-- [OneDrive]():
+- ⭐ [Github](www.github.com)
+- ⭐ [Dropbox](www.dropbox.com)
+- ⭐ [Google drive](www.google.com)
+- [Gitlab](www.gitlab.com)
+- [Bitbucket](www.bitbucket.com)
+- [Box](www.box.com)
+- [OneDrive](https://onedrive.live.com/about/en-us/)
 
 ## Communication
 
-- ⭐ [Slack]():
-- [Skype]():
+- ⭐ [Slack](https://slack.com)
+- [Skype](www.skype.com)
 
 ## Text editors
 
@@ -78,31 +78,32 @@ wasted a lot of time customizing it. It was fun, but unproductive. Many people
 
 ## Word processing/typesetting
 
-- ⭐ [RMarkdown]():
-- ⭐ [LaTeX]():
-- ⭐ [Word]():
-- [Pages]():
+- ⭐ [RMarkdown](https://rmarkdown.rstudio.com)
+- ⭐ [LaTeX](https://www.latex-project.org)
+- ⭐ Word
+- Pages
 
 ## Stimuli presentation
 
-- ⭐ [PsychoPy](): 
-- [E-prime]():
-- [Superlab]():
+- ⭐ [PsychoPy](http://www.psychopy.org)
+- [E-prime](https://pstnet.com/products/e-prime/)
+- [Superlab](https://cedrus.com)
 
 ## Statistical analysis
 
-- ⭐ [R]():
-- [SPSS]():
-- [Matlab]():
-- [SASS]():
-- [JASP]():
+- ⭐ [R](https://www.r-project.org)
+- [JASP](https://jasp-stats.org)
+- [SPSS](https://www.ibm.com/analytics/spss-statistics-software)
+- [Matlab](https://www.mathworks.com/products/matlab.html)
+- [SASS](https://www.sas.com/en_us/software/stat.html)
+
 
 ## Speech analysis
 
-- ⭐ [Praat](): 
-- [Audacity]():
+- ⭐ [Praat](http://www.fon.hum.uva.nl/praat/)
+- [Audacity](https://www.audacityteam.org)
 
 ## Misc. 
 
-- ⭐ [Github Desktop]():
-- ⭐ [Alfred]():
+- ⭐ [Github Desktop](https://desktop.github.com)
+- ⭐ [Alfred](https://www.alfredapp.com)
