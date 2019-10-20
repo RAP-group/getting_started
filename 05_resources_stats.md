@@ -1,5 +1,9 @@
 # Statistics
 
+## Descriptives
+
+- [skimr](https://github.com/ropensci/skimr/blob/master/README.md)
+
 ## Distributions
 
 - 
@@ -21,5 +25,13 @@
 - 
 
 ## Bayesian inference
+
+- 
+
+## Power and effect sizes
+
+- 
+
+## Transformations and coding
 
 - 
